@@ -24,7 +24,7 @@ The application supports dynamic updates of exchange rates. Any changes made to 
 
 ## 🛠️ Tech Stack
 
-- ASP.NET Core Web API (.NET 6/7/8)  
+- ASP.NET Core Web API (.NET 9)
 - C#  
 - Swagger (Swashbuckle)  
 - System.Text.Json  
